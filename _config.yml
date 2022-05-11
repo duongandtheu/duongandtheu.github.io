@@ -2,7 +2,8 @@
 title: Duong & Theu wedding photos
 email: "duongandtheu@gmail.com"
 description: "Photo Journal"
-url: "http://127.0.0.1:4000"
+# url: "http://127.0.0.1:4000"
+url: "https://duongandtheu.github.io/"
 baseurl: ""
 facebook_username: "duongtd23"
 # instagram_username: ""
@@ -29,10 +30,15 @@ comments :
 
 # Internal nav
 nav:
-  - ALBUM 1: "http://127.0.0.1:4000/gallery/"  
-  - ALBUM 2: "http://127.0.0.1:4000/journal/"
-  - ALBUM 3: "http://127.0.0.1:4000/journal/"
-  - ABOUT US: "http://127.0.0.1:4000/about/"
+  - ALBUM 1: "gallery"  
+  - ALBUM 2: "journal"
+  - ALBUM 3: "journal"
+  - ABOUT US: "about"
+# nav:
+#   - ALBUM 1: "https://duongandtheu.github.io/gallery/"  
+#   - ALBUM 2: "https://duongandtheu.github.io/journal/"
+#   - ALBUM 3: "https://duongandtheu.github.io/journal/"
+#   - ABOUT US: "https://duongandtheu.github.io/about/"
 
 # All translation keys
 translations:
