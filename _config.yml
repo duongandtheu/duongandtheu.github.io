@@ -1,15 +1,11 @@
 # Site settings
-title: PHOTORAMA
-email: ""
+title: Duong & Theu wedding photos
+email: "duongandtheu@gmail.com"
 description: "Photo Journal"
 url: "http://127.0.0.1:4000"
 baseurl: ""
-facebook_username: ""
-twitter_username: ""
-instagram_username: ""
-github_username:  ""
-deviantart_username: ""
-flickr_username: ""
+facebook_username: "duongtd23"
+# instagram_username: ""
 discus_shortname: ""
 share: true
 
@@ -33,9 +29,10 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "http://127.0.0.1:4000/gallery/"  
-  - JOURNAL: "http://127.0.0.1:4000/journal/"
-  - ABOUT: "http://127.0.0.1:4000/about/"
+  - ALBUM 1: "http://127.0.0.1:4000/gallery/"  
+  - ALBUM 2: "http://127.0.0.1:4000/journal/"
+  - ALBUM 3: "http://127.0.0.1:4000/journal/"
+  - ABOUT US: "http://127.0.0.1:4000/about/"
 
 # All translation keys
 translations:
